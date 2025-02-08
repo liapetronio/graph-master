@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <v-app light>
     <v-app-bar app>
       <v-toolbar-title>graph master's mania</v-toolbar-title>
       <v-spacer></v-spacer>

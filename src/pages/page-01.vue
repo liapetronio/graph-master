@@ -1,8 +1,8 @@
 <template>
-  <div>
+  <div class="page-01">
     <h1>Page 1</h1>
     <p>This is page 1.</p>
-    <SpheresComp01 />
+    <SpheresComp02 />
   </div>
 </template>
 
@@ -12,3 +12,9 @@
 
 
 </script>
+<style>
+.page-01 {
+ background-color: white !important;
+ height:200vh;
+}
+</style>
